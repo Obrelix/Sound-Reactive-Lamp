@@ -1,5 +1,10 @@
 # Sound-Reactive-Lamp
+
  Αn arduino board and a addressable led strip combined with a microphone and an IR sensor
+ 
+ [![Watch the video](https://i.imgur.com/mqD0oNe.png)](https://drive.google.com/file/d/12TCb-H93BPny19mBgwc6wDpWEZsnkVzb/view?usp=sharing)
+
+
 # Parts Needed
 
 Arduino Mega board
