@@ -2,15 +2,17 @@
 
  Αn arduino board and a addressable led strip combined with a microphone and an IR sensor
  
- 
  [![Watch the video](https://i.imgur.com/a5o7LuU.jpg)](https://drive.google.com/file/d/1huSRQnntBqyO1JSw26L77JDmq3GuuTbv/view)
  
  [![Watch the video](https://i.imgur.com/mqD0oNe.png)](https://drive.google.com/file/d/12TCb-H93BPny19mBgwc6wDpWEZsnkVzb/view)
+ 
+# Arduino Code
 
+[Arduino Code](https://github.com/Obrelix/Sound-Reactive-Lamp/blob/master/IRLedStrip.ino)
 
 # Schema
 
-![alt tag](https://imgur.com/GLmzYrZ)
+![alt tag](https://i.imgur.com/GLmzYrZ.png)
 
 # Parts Needed
 
