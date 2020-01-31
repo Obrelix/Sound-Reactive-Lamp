@@ -8,6 +8,10 @@
  [![Watch the video](https://i.imgur.com/mqD0oNe.png)](https://drive.google.com/file/d/12TCb-H93BPny19mBgwc6wDpWEZsnkVzb/view)
 
 
+# Schema
+
+![alt tag](https://imgur.com/GLmzYrZ)
+
 # Parts Needed
 
 Arduino Mega board
